@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.OneToOne;
+import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
@@ -18,10 +18,10 @@ public class DetalleOrden {
 	private double precio;
 	private double total;
 	
-	@OneToOne
+	@ManyToOne
 	private Orden orden;
 	
-	@OneToOne
+	@ManyToOne
 	private Producto producto;
 	
 	public DetalleOrden() {
