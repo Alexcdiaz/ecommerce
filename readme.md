@@ -19,3 +19,8 @@ La aplicación permitirá la administración de los productos, usuarios y las re
 2. Crear base de datos de nombre "ecommerce"
 3. Configurar credenciales de conección con base de datos
 4. Ejecutar el proyecto con Spring
+
+## Evidencias gráficas
+### Registros en base de datos
+![Usuarios Base de datos](https://raw.githubusercontent.com/Alexcdiaz/ecommerce/main/images/bd-users.PNG)
+![Usuarios Base de datos](/images/bd-users.PNG)
