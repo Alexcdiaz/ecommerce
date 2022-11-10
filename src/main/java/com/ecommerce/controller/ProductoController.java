@@ -21,7 +21,6 @@ import com.ecommerce.model.Usuario;
 import com.ecommerce.service.IUsuarioService;
 import com.ecommerce.service.ProductoService;
 import com.ecommerce.service.UploadFileService;
-import com.ecommerce.service.UsuarioServiceImpl;
 
 @Controller
 @RequestMapping("/productos")
