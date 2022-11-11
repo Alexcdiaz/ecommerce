@@ -17,7 +17,7 @@ La aplicación permitirá la administración de los productos, usuarios y las re
 ## Instrucciones de instalación
 1. Clonar repositorio de GIT
 2. Crear base de datos de nombre "ecommerce"
-3. Configurar credenciales de conección con base de datos
+3. Configurar credenciales de conexión con base de datos
 4. Ejecutar el proyecto con Spring
 
 ## Evidencias gráficas
